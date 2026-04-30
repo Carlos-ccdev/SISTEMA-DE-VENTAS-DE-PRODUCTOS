@@ -1,0 +1,16 @@
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.Up2Date
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.Up2Date
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.pdb

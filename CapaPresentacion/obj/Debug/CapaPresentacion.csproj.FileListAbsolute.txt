@@ -1,0 +1,177 @@
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetallePago.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmPago.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmPermiso.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmRol.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetallePago.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmPago.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmPermiso.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmRol.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe.config
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\AForge.Video.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\AForge.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\AForge.Video.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe.config
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetallePago.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmPago.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmPermiso.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmRol.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb

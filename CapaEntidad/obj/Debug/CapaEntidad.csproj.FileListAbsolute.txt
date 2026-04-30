@@ -1,0 +1,24 @@
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Hp\OneDrive\Documentos\PROGRAMACION\034_CursoSistemaVentaEscritorio-master\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Carpetas de Escritorio\Sistema de venta de productos Electronicos\CapaEntidad\obj\Debug\CapaEntidad.pdb

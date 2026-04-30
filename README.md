@@ -1,7 +1,6 @@
 # Sistema de Ventas - Aplicación de Escritorio
 
-Aplicación de escritorio desarrollada en C# con arquitectura en capas para la gestión de ventas, pagos y generación de comprobantes. El sistema permite registrar ventas, procesar pagos (QR y efectivo) y generar comprobantes en PDF.
-
+Desarrollé un sistema de ventas para tienda de productos electrónicos en C# con arquitectura en capas. Permite registrar ventas, gestionar pagos y generar comprobantes en PDF, integrando datos con SQL Server. Demuestra habilidades en backend, lógica de negocio y resolución de problemas reales.
 ---
 
 # Tecnologías utilizadas
